@@ -10,6 +10,8 @@ namespace testgithub
         static void Main(string[] args)
         {
             Console.WriteLine("Hi from Josef!");
+
+            Console.WriteLine("Hi again!!");
         }
     }
 }
